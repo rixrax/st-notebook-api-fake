@@ -5,6 +5,12 @@
       "content": "This is a note",
       "created_at": "2019-12-16 11:42:35",
       "modified_at": "2019-12-16 11:42:35"
+    },
+    {
+      "id": 2,
+      "content": "This is a second note",
+      "created_at": "2019-12-19 14:54:35",
+      "modified_at": "2019-12-19 14:54:35"
     }
   ]
 }
